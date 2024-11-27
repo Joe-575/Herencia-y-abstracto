@@ -31,8 +31,7 @@ public class App {
 
         helicoptero.Encender();
         helicoptero.Apagar();
-
-        
+        helicoptero.leerRutas("src\\transporteAbstracto\\rutas.txt");
 
     }
 }

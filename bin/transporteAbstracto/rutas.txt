@@ -1,0 +1,6 @@
+Ruta                ;Distancia ;Tiempo Estimado   ;Altitud
+Quito - Guayaquil   ;420 km    ;1 hora 30 minutos ;2000m
+Guayaquil - Cuenca  ;200 km    ;1 hora            ;2500m
+Cuenca - Loja       ;150 km    ;45 minutos        ;2000m
+Loja - Manta        ;300 km    ;1 hora 15 minutos ;3200m
+Manta - Quito       ;400 km    ;1 hora 20 minutos ;3500m
